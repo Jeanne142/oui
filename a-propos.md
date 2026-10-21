@@ -9,3 +9,4 @@ Ce site sert à montrer ce qu'on peut publier sans rien installer :
 - une page de [notes](notes.md)
 
 Pour écrire ce qu'on veut, il suffit de modifier un fichier `.md`, directement sur GitHub avec le crayon ✏️, puis *Commit changes*.
+Je change un truc.
